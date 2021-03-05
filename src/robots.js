@@ -1,3 +1,4 @@
+// Hard coded test data
 export const robots = [
   {
     id: 1,
